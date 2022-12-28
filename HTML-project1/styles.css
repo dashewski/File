@@ -1,0 +1,15 @@
+    h1 {
+        color: white;
+        background-color: black;
+    }
+
+    h2 {
+        color: white;
+        background-color: black;
+        margin-top: 50px;
+    }
+
+    .body {
+        margin: 50px;
+        font-weight: bold;
+    }
