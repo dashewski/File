@@ -1,0 +1,54 @@
+.body {
+    font-family: Times New Roman;
+    font-size: 20px;
+}
+
+.header {
+    background-color: red;
+    color:white;
+    font-size: 7px;
+}
+
+.header h1 {
+    padding: 15px;
+}
+
+.footer {
+    background-color: red;
+    color:white;
+    font-size: 15px;
+    display: flex;
+    justify-content:space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.page {
+    background-color: white;
+    color:black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.column {
+    border: 3px solid yellow;
+    border-radius: 5%;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top:35px;
+    margin-bottom:35px;
+}
+
+.text-header {
+    font-weight: bold;
+}
+
+p {
+    margin-right: 100px;
+}
+
+.backer {
+    margin-right: 0px;
+}
